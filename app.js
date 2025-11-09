@@ -121,9 +121,7 @@ console.log('Exercise 7 result:', yummy);
 Complete Exercise 8 in the space below:
 */
 
-//console.log(foods.indexOf('tofu'));
-
-const soyIdx = foods[3];
+const soyIdx = foods.indexOf('tofu');
 
 console.log('Exercise 8 result:', soyIdx);
 
